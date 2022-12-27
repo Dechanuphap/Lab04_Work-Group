@@ -4,4 +4,4 @@
 ![Teeraphon Chonphoopruck](https://github.com/Dechanuphap/Lab04_Work-Group/blob/main/media/teeraphon.png)
 
 1. นายศุภสัณห์ แซ่จอง 633020578-0 sec.2 [poohdudeeiei](https://github.com/poohdudeeiei)
-![Puppydude](https://github.com/Dechanuphap/Lab04_Work-Group/tree/main/media/Suphasan.png)
+![Puppydude](https://github.com/Dechanuphap/Lab04_Work-Group/tree/main/media/Suphasan.jpg)
