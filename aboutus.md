@@ -8,3 +8,6 @@
 
 1. นายเดชานุภาพ อนุวรรณ 633020378-8 sec.2 [Dechanuphap](https://github.com/Dechanuphap)
 ![Dechanuphap Anuwan](https://github.com/Dechanuphap/Lab04_Work-Group/blob/main/media/DechanuphapAnuwan_Profile.jpg)
+
+1. นายชาญยุทธ ดงทะนา 633020034-0 sec.2 [EIJI01](https://github.com/EIJI01)
+![Chanyut Dongthana](https://github.com/Dechanuphap/Lab04_Work-Group/blob/main/media/chanyut.jpg)
